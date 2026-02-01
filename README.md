@@ -29,20 +29,4 @@
 
 ## 📊 GitHub 数据（努力ing）
 <!-- 自动生成的 GitHub 统计卡片 -->
-<div align="center">
-  <!-- GitHub 统计卡片 + 常用语言卡片，并排展示 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zala13&show_icons=true&theme=radical&count_private=true" alt="GitHub 统计" style="width: 48%; display: inline-block;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zala13&layout=compact&theme=radical" alt="常用语言" style="width: 48%; display: inline-block;"/>
-</div>
-
-## 🌟 重点项目
-| 项目名称 | 技术栈 | 简介 |
-|---------|--------|------|
-| [algorithm_practice](https://github.com/zala13/leetcode_practice) | Java + C++ + 数据结构与算法 | 积累属于自己的算法知识 |
-| [multithreading_practice](https://github.com/zala13/multithreading_practice) | Java + JUC | 锻炼实际的工程编程能力 |
-
-## 🎨 趣味数据(努力ing)
-<!-- GitHub 贡献图 -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zala13&theme=react-dark&hide_border=true" alt="贡献图" style="width: 100%;"/>
-</div>
+  [GitHub Status](http://github-readme-stats-peach-two-39.vercel.app/api?username=zala13)

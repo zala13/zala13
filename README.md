@@ -29,7 +29,5 @@
 
 ## 📊 GitHub 数据（努力ing）
 <!-- 自动生成的 GitHub 统计卡片 -->
-<div align="center" style="letter-spacing: 2px; margin: 20px 0;">
-  [![GitHub Status](http://github-readme-stats-peach-two-39.vercel.app/api?username=zala13)](https://github.com/zala13)
-</div>
+[![GitHub Status](http://github-readme-stats-peach-two-39.vercel.app/api?username=zala13)](https://github.com/zala13)
 

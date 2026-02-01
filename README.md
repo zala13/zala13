@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [zala](https://zala13.github.io/)
 <!-- 个性化签名 -->
-💻 后端开发 | 🚀 Java/C++ 实践者 | 🎮 游戏爱好者
+💻 后端开发 | 🚀 Java/C++ | 🎮 游戏爱好者
 
 <!-- 技术栈徽章（居中展示） -->
 <div align="center" style="letter-spacing: 2px; margin: 20px 0;">

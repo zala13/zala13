@@ -27,7 +27,6 @@
 - 📫 联系我：[博客](https://zala13.github.io/) | [zalainsz@outlook.com](https://xxx.com)
 - ⚡ 趣味：跑步🏃 | 骑行🚴 | 音乐🎵 | 电影🎬 | 游戏🎮
 
-## 📊 GitHub 数据（努力ing）
 <!-- 自动生成的 GitHub 统计卡片 -->
 ![zala13](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zala13&theme=default)
 
